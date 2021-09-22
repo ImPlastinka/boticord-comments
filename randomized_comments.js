@@ -71,6 +71,9 @@ let commentplaceholders = [
     "\"ждем-с\" ©️ TheMisterSenpai",
     "\"Подождика, а что сюда писать? Гневный или добрый комент?\" ©️ Vabby"
     // "Майс воскрес 👀"
+    "\"Ого\" ©️ flyare"
+    "\"хм. тут надо писать?!\" ©️ flyare"
+    "\"Тэкс. Щас потыкаем\" ©️ flyare"
 ];
 
 let randomizedcomment = commentplaceholders[Math.floor(Math.random() * commentplaceholders.length)];
