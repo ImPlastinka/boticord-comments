@@ -69,8 +69,12 @@ let commentplaceholders = [
     "\"Uncaught TypeError: Cannot read property 'comment' of undefined\" ©️ Tegnio",
     "\"хочу сыр косичку!\" ©️ TheMisterSenpai",
     "\"ждем-с\" ©️ TheMisterSenpai",
+    "\"なぜあなたはこれを読んでいるのですか?\" ©️ Flaryanlxrd",
+    "\"https://youtu.be/dQw4w9WgXcQ 🗿\" © Flaryanlxrd",
+
     "\"Подождика, а что сюда писать? Гневный или добрый комент?\" ©️ Vabby",
-    "\"Пока вашего комментария нет, его будут ждать. Пишите! ✏️\" ©️ err0r522"
+    "\"Пока вашего комментария нет, его будут ждать. Пишите! ✏️\" ©️ err0r522",
+
     // "Майс воскрес 👀"
     "\"Ого\" ©️ flyare"
     "\"хм. тут надо писать?!\" ©️ flyare"
